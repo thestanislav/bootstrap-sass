@@ -21,7 +21,6 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
-    "lib",
     "tasks",
     "templates",
     "test",
